@@ -485,3 +485,15 @@ footer
 {
  font-style: italic;   
 }
+
+#laura
+	{
+	text-decoration: underline;
+	color:  #e67e22;
+	font-size: 1em;
+	}
+	
+#laura:hover
+	{
+	color: #2c3e50;
+	}
